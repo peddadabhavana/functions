@@ -22,3 +22,9 @@ print(average())
 # Here we are printing the value of result which is the average of a,b,c calculated by
 
 # the function average
+# output
+# PS C:\Users\bhava\OneDrive\Desktop\Python> & C:\Users\bhava\AppData\Local\Microsoft\WindowsApps\python3.12.exe c:/Users/bhava/OneDrive/Desktop/Python/functions/01_func_define.py
+# 1.6666666666666667
+# 1.6666666666666667
+# PS C:\Users\bhava\OneDrive\Desktop\Python> 
+
